@@ -1,0 +1,19 @@
+{
+  "name": "frontend-xdreams",
+  "version": "1.0.0",
+  "description": "Proyecto XDreams parte del FrontEnd",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HckrLgna/FrontEnd-XDreams.git"
+  },
+  "author": "Angel Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HckrLgna/FrontEnd-XDreams/issues"
+  },
+  "homepage": "https://github.com/HckrLgna/FrontEnd-XDreams#readme"
+}
